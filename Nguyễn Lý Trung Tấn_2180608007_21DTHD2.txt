@@ -1,12 +1,7 @@
-Họ tên: Lương Tấn Tài
-lớp: 21DTHD2
-mssv: 2180607979
 Họctên: Nguyễn Lý Trung Tấn
 lớp: 21DTHD2
 MSSV: 2180608007
 Họ tên: nguyễn Thanh Phúc
 lớp: 21DTHD2
 MSSV: 2180607895
-Họ tên : Võ Thanh Hào
-lớp: 21DTHD2
-MSSV: 2180606651
+

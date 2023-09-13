@@ -3,6 +3,4 @@ Họctên: Nguyễn Lý Trung Tấn
 lớp: 21DTHD2
 MSSV: 2180608007
 
-Họ tên : Võ Thanh Hào
-lớp: 21DTHD2
-MSSV: 2180606651
+

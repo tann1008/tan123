@@ -14,3 +14,7 @@ MSSV: 2180606651
 Họ tên: nguyễn Thanh Phúc
 lớp: 21DTHD2
 MSSV: 2180607895
+
+Họ tên: Võ Ngọv Minh
+lớp: 21DTHD2
+MSSV: 2180607215

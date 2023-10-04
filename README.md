@@ -1,5 +1,5 @@
 # VoNgocMinh_2180607215_21DTHD2
-# user story: Sales manager
+# user story : Sales manager
 |title | Sales Management |
 |-------------------|-------------------------- -- ------------------------------------------------ -- ---------------------------------|
 | Value proposition | As a seller, I want to calculate the amount of money sold during the day and summarize it at the end of the month to see if there is any loss of money |
